@@ -857,4 +857,11 @@ COUNTRY RANKING:
 75. Nigeria (NG): 102 total = 4 local + 11 regional + 87 global
 79. Kenia (KE): 100 total = 2 local + 11 regional + 87 global
 80. Uganda (UG): 97 total = 1 local + 9 regional + 87 global
-81. Zambia (ZM): 96 total = 0 local + 9 regional + 87 global
+81. Zambia (ZM): 96 total = 0 local + 9 regional + 87 globalYoung Golds LATAM (Festival El Dorado) | R | Ibero-America / Iberoamérica (hosted in Colombia; young creatives from all Latin America, including Ecuador; El Dorado's main awards are for work made or placed in Colombia) | 2026-10-01 | creativity | MX,BR,AR,CL,CO,PE,UY,EC,CR,DO,GT,VE,PY,PR,BO,PA | https://www.festivaleldorado.com/en/premios
+Premios AMPE | L | España | 2026-11-16 | creativity/media&digital |  | 
+Saludfestival (Festival Internacional de Salud y Alimentación) | G | Global (hosted in Spain, by Publifestival) | 2026-11-30 | creativity |  | https://saludfestival.com/
+Premios ALCE | L | España (Alicante) | 2026-10-23 | creativity/PR |  | https://premiosalce.asociacion361.es/
+Best!N Food | L | España | 2026-03-25 | creativity/design&craft |  | https://bestawards.marketing/bestinfood/
+Best!N Travel | L | España | 2026-11-26 | creativity |  | 
+Ecommerce Awards España | L | España | 2026-09-18 | media&digital |  | https://marketing4ecommerce.net/ecommerce-awards/
+Premios Programática (La Publicidad) | L | España | ~2026-12-03 | media&digital |  | 
